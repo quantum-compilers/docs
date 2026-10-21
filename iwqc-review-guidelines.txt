@@ -1,0 +1,68 @@
+Dear [*FIRST-NAME*],
+
+I am a PC member of IWQC20. Could you please write
+a short review for me on the following paper submitted to IWQC20:
+
+-------------------------------------
+  Paper id: [*PAPER-ID*]
+  Title: [*TITLE*]
+-------------------------------------
+
+The instructions on how to answer this review request
+can be found at the bottom of this letter.
+
+I need to receive the review by Wednesday 26 August.
+
+IWQC is a workshop whose proceeding will not be published.  Our aim is
+a to put together an interesting programme of talks that reflect the
+state of the art in quantum compilation and will provoke discussion.
+With this in mind, please observe the following guidelines when
+reviewing.  
+
+Filter : 
+Scope — if it’s not about compiling quantum software, loosely speaking, it’s not in scope.
+Shite — is it obvious garbage?  Then reject and move on.
+
+Identify : what is the main contribution of the paper?  
+
+Judge : 
+— Is it novel?  Is it likely to lead to new things?  Applied a new
+  approach to an old problem?  Attacks a problem not much considered
+  before?   Is it interesting? Papers which are incremental and/or
+  unsurprising can still make the cut.
+— Is it (probably) right?  We don’t need to check all the the proofs
+  but the methods should be adequate to obtain the results presented.
+  This is a workshop — we are more willing to be wrong than be
+  boring. 
+
+We don't care about : 
+— is the paper well written?  This is just for talks, we won’t be
+  publishing the paper.  Of course if you can't understand it then
+  that is bad.
+
+Of course, as always you can give the authors whatever feedback you
+think would useful to them, but the points above are what the PC needs
+to know.
+
+Interpretation of scores :
+
+ 3 : Excellent work, this is an essential talk at the workshop.
+ 2 : I like it, I would go to the talk.
+ 1 : Mildly interesting, but skippable.
+ 0 : I don't care about this, but it's  probably not wrong.
+-1 : This has problems, potentially fixable.
+-2 : Major issues, can't be accepted.
+-3 : This is wrong, fundamentally misguided, or out of scope, and must
+     not be included in any form at the workshop.
+
+Note that the authors are allowed to submit contributions of any
+length, including short abstracts.  If the authors haven't given you
+enough to judge the merit of their submission, then take your best
+guess and use the "confidence" score to reflect your uncertainty.  You
+should also make a comment to this effect in the review.
+
+Note also anything which is in scope and not wrong will be invited for
+a poster.
+
+Cheers,
+Ross
